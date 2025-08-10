@@ -1,5 +1,0 @@
-name: Firefox Flash Custom
-description: Workspace personalizado Firefox con falso Flash
-author: Jose María
-default_image: skynetdocker88/firefox-flash-esr:v1
-launch: firefox
